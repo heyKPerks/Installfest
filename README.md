@@ -1,24 +1,19 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a simple rails app that allows for database entry and deletiion.
 
-Things you may want to cover:
+Project Touchpoints:
+* Installed / Configured Git
+* Installed / Configured Ruby on Rails
+* Generateed SSH Keys
+* Created simple database entry app
+* Deployed to Heroku
 
-* Ruby version
+------------
+Completed the RailsBridge Installfest http://installfest.railsbridge.org/installfest/
 
-* System dependencies
+The Odin Project Course: https://www.theodinproject.com/courses
+2: Web Development 101 > The Basics > Project: Installations
+------------
 
-* Configuration
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
